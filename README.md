@@ -1,4 +1,10 @@
 ## Hi there 👋
+- 🔭 I’m currently working on ScariOS
+- 🌱 I’m currently learning HTML Code and Python
+- 👯 I’m looking to collaborate on ScariOS
+- 🤔 I’m looking for help with GitHub Pages
+- 💬 Ask me about iOS and its Sideloading Community
+- 😄 Pronouns: He/They
 
 <!--
 **LJJB29/LJJB29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
