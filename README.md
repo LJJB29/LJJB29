@@ -1,22 +1,8 @@
 ## Hi there 👋
-- 🔭 I’m currently working on ScariOS
+- 🔭 I’m currently working on ps3toolbox
 - 🌱 I’m currently learning HTML Code and Python
-- 👯 I’m looking to collaborate on ScariOS
-- 🤔 I’m looking for help with GitHub Pages
-- 💬 Ask me about iOS and its Sideloading Community
+- 👯 I’m looking to collaborate on pa3toolbox
+- 🤔 I’m looking for help with ps3hen
+- 💬 Ask me about ps3 homebrew
 - 😄 Pronouns: He/They
 
-<!--
-**LJJB29/LJJB29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
